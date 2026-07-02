@@ -175,4 +175,3 @@ The project demonstrates:
 
 ---
 
-*This markdown file can be directly attached to your project.*
